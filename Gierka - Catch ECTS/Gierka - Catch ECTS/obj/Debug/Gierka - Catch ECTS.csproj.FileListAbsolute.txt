@@ -1,0 +1,15 @@
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.csproj.AssemblyReference.cache
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.csproj.ResolveComReference.cache
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka__Catch_ECTS.Form1.resources
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka___Catch_ECTS.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\bin\Debug\Gierka - Catch ECTS.exe.config
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\bin\Debug\Gierka - Catch ECTS.exe
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\bin\Debug\Gierka - Catch ECTS.pdb
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.exe
+C:\Users\Ernest\source\repos\Gierka - Catch ECTS\Gierka - Catch ECTS\obj\Debug\Gierka - Catch ECTS.pdb

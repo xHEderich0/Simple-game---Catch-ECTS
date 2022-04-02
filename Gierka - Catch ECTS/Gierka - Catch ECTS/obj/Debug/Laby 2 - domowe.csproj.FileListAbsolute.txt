@@ -1,0 +1,15 @@
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\bin\Debug\Laby 2 - domowe.exe.config
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\bin\Debug\Laby 2 - domowe.exe
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\bin\Debug\Laby 2 - domowe.pdb
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.csprojAssemblyReference.cache
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby_2___domowe.Form1.resources
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby_2___domowe.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.exe
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.pdb
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ernest\source\repos\Laby 2 - domowe\Laby 2 - domowe\obj\Debug\Laby 2 - domowe.csproj.ResolveComReference.cache
